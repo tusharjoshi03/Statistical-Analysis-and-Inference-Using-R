@@ -1,4 +1,4 @@
-# Statistical Analysis and Inference Using R
+# Statistical Analysis to Study Impact of Sleep Problems on Physical Fitness
 
 This project aims to identify correlation between sleep patterns, various lifestyle choices and impact of those choices on physical fitness of people. The data used for this purpose was collected using a survey among staff members of a university in Melbourne, Australia.
 
